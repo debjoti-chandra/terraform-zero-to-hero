@@ -160,10 +160,3 @@ By completing this course, you will:
 - Implement **secure, collaborative workflows** with remote state and Vault
 - Apply **best practices** for scalability, maintainability, and security
 
----
-
-## Visual Architecture (Optional for README Enhancement)
-You can enhance this README with:
-- **Terraform Workflow Diagram** (`init → plan → apply → destroy`)
-- **Remote State Architecture** (S3 + DynamoDB locking)
-- **Module Dependency Graph**
